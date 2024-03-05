@@ -9,7 +9,7 @@ The goal of this project is to conduct a comprehensive analysis of human resourc
 
 ## Data
 
-The dataset used for this project is "Human Resources.csv". This file contains over 22 000 rows of HR Data from the year 2000 to 2020.
+The dataset used for this project is "Human Resources.csv". This file contains over 22,000 rows of HR Data from the year 2000 to 2020.
 
 ## Tools
 
